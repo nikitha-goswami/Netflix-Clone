@@ -1,6 +1,5 @@
 # Netflix-Clone
 
-# Netflix Clone
 
 This project is a Netflix clone created using HTML, CSS, and JavaScript. It includes videos and a custom player.
 
@@ -26,7 +25,7 @@ To run this project locally:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/netflix-clone.git
+    git clone https://github.com/nikitha-goswami/Netflix-Clone.git
     ```
 
 2. Navigate to the project directory:
@@ -36,11 +35,5 @@ To run this project locally:
 
 3. Open `index.html` in your browser to view the project.
 
-## Screenshots
-
-![Screenshot 1](path/to/screenshot1.png)
-![Screenshot 2](path/to/screenshot2.png)
-
-## Author
-
-- **Your Name** - [Your GitHub Profile](https://github.com/yourusername)
+## Screenshot
+![Screenshot 2024-07-11 214351](https://github.com/nikitha-goswami/Netflix-Clone/assets/82959971/dd1d6d46-c798-4736-9202-99f2ea124630)
